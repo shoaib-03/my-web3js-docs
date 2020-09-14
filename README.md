@@ -43,10 +43,9 @@ One last thing need is a Metamask Extension for Chrome which turn you `Web Brows
 Now lets jump into coding...
 
 ```
-import React from 'react';
 import Web3 from 'web3';
 ```
-First of all we have imported `React` and `Web3`
+First of all we have imported  `Web3`
 
 ```
 const loadBlockchainData = async ()  => {
