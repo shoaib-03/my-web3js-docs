@@ -38,7 +38,7 @@ Firstly, we need to initialize a new project using `create-react-app`, and after
 ```
 npm install web3
 ```
-One last thing need is a Metamask Extension for Chrome which turn you `Web Browser` to a `Blockchain Browser`.
+One last thing needed is a Metamask Extension for Chrome which turn you `Web Browser` to a `Blockchain Browser`.
 
 Now lets jump into coding...
 
