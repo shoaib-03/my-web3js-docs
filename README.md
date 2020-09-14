@@ -62,8 +62,8 @@ console.log('Network:', network); // Network: main
 const accounts = await web3.eth.getAccounts();
 
 console.log('Account:', accounts[0]); // Account: key_string
-```
 }
+```
 
 Now we have created an `async` function to load our account information and inside that we are doing 3 things - 
 
